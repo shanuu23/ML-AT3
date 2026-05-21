@@ -23,7 +23,7 @@ Across the group, the project must cover these four data mining tasks:
 | --- | --- | --- |
 | TBD | TBD | Classification |
 | TBD | TBD | Regression |
-| TBD | TBD | Anomaly detection |
+| Ratnadeep Patra | 26294153 | Anomaly detection |
 | Shanu Sharma| 25979360 | Clustering |
 
 ## Use Case Tracking
@@ -32,7 +32,7 @@ Across the group, the project must cover these four data mining tasks:
 | --- | --- | --- |
 | TBD | Classification | TBD |
 | TBD | Regression | TBD |
-| TBD | Anomaly detection | TBD |
+| Ratnadeep Patra | Anomaly detection | TBD |
 | Shanu Sharma | Clustering | TBD |
 
 ## GitHub Folder Structure
