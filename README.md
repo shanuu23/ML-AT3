@@ -22,7 +22,7 @@ Across the group, the project must cover these four data mining tasks:
 | Name | Student ID | Data mining task |
 | --- | --- | --- |
 | TBD | TBD | Classification |
-| TBD | TBD | Regression |
+| Devvrat Charusmiti Joshi | 25657887 | Regression |
 | Ratnadeep Patra | 26294153 | Anomaly detection |
 | Shanu Sharma| 25979360 | Clustering |
 
