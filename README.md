@@ -24,7 +24,7 @@ Across the group, the project must cover these four data mining tasks:
 | TBD | TBD | Classification |
 | TBD | TBD | Regression |
 | TBD | TBD | Anomaly detection |
-| TBD | TBD | Clustering |
+| Shanu Sharma| 25979360 | Clustering |
 
 ## Use Case Tracking
 
@@ -33,7 +33,7 @@ Across the group, the project must cover these four data mining tasks:
 | TBD | Classification | TBD |
 | TBD | Regression | TBD |
 | TBD | Anomaly detection | TBD |
-| TBD | Clustering | TBD |
+| Shanu Sharma | Clustering | TBD |
 
 ## GitHub Folder Structure
 
